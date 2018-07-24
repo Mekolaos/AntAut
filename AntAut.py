@@ -1,4 +1,4 @@
-lettres ='abcdefghijklmnopqrstuvwxyz'
+letters ='abcdefghijklmnopqrstuvwxyz'
 
 def crypting(n, plaintext):
 	letter=''
