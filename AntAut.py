@@ -29,5 +29,5 @@ offset = input("Offset : ")
 crypter = crypting(offset, tradText)
 print('Crypted message : ', crypter)
 
-decrypter = decrypting(decalage, crypter)
+decrypter = decrypting(offset, crypter)
 print('Decrypted message: ', decrypter)
